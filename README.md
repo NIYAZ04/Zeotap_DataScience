@@ -16,7 +16,7 @@ Transactions.csv: Includes transaction details with TransactionID, CustomerID, P
 
 Tasks Completed
 
-Task 1: Exploratory Data Analysis (EDA) and Business Insights
+### Task 1: Exploratory Data Analysis (EDA) and Business Insights
 
 Conducted a thorough exploratory data analysis.
 
@@ -28,7 +28,7 @@ MirNiyazulHaque_EDA.ipynb - Jupyter Notebook containing EDA code.
 
 EDA resport.pdf - Report with business insights.
 
-Task 2: Lookalike Model
+### Task 2: Lookalike Model
 
 Built a Lookalike Model to recommend similar customers based on profile and transaction history.
 
@@ -40,7 +40,7 @@ Lookalike.csv - Contains top 3 lookalikes for each customer.
 
 Mir_Niyazul_Haque_Lookalike_Model.ipynb - Jupyter Notebook explaining model development.
 
-Task 3: Customer Segmentation / Clustering
+### Task 3: Customer Segmentation / Clustering
 
 Performed customer segmentation using clustering techniques.
 
