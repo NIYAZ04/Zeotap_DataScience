@@ -91,8 +91,8 @@ For any queries related to the project, feel free to contact:
 
 Name: Mir Niyazul Haque
 
-Email: your-email@example.com
+Email: niyazhaque098@gmail.com
 
-GitHub: your-github-profile
+GitHub: (https://github.com/NIYAZ04/Zeotap_DataScience/tree/main)
 
-Good luck with your submission!
+
